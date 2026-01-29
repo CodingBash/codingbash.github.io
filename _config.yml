@@ -1,3 +1,8 @@
 title: Basheer Becerra
 description: Projects and notes
 theme: minima
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
